@@ -1,0 +1,12 @@
+{
+    "name": "o3809/taskmanager",
+    "require": {
+        "gabordemooij/redbean": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "Olehpryimak",
+            "email": "31596938+Olehpryimak@users.noreply.github.com"
+        }
+    ]
+}

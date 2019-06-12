@@ -1,0 +1,14 @@
+.tasksText{
+
+    background: white;
+    text-align: center;
+    min-height: 50px;
+
+}
+.tips{
+    
+    font-size: 10px;
+    color: #9d9d9d;
+    text-align: right;
+    height:20px;
+}
